@@ -1,16 +1,33 @@
-# React + Vite
+# Tactical Arsenal Intelligence
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Deploy static content to Pages](https://github.com/Otattemita/gel_blaster_compare/actions/workflows/deploy.yml/badge.svg)
 
-Currently, two official plugins are available:
+This project is a high-fidelity technical wiki for the Gel Blaster community, featuring cross-referenced intelligence from Chinese technical forums and real-time stock data.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Deployment
 
-## React Compiler
+This project is configured for automated deployment to GitHub Pages via GitHub Actions.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Setup Instructions
 
-## Expanding the ESLint configuration
+1.  **Enable GitHub Pages**:
+    -   Go to your repository on GitHub.
+    -   Navigate to **Settings** > **Pages**.
+    -   Under **Build and deployment** > **Source**, select **GitHub Actions**.
+2.  **Push Changes**:
+    -   Any push to the `main` branch will automatically trigger the `Deploy static content to Pages` workflow.
+    -   The site will be available at: `https://Otattemita.github.io/gel_blaster_compare/`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Development
+
+```bash
+npm install
+npm run dev
+```
+
+## Technology Stack
+
+- **Frontend**: React + Vite
+- **Animations**: Framer Motion
+- **Icons**: Lucide React
+- **Data Intelligence**: Automated Python backend tools (see `backend_tools/`)
