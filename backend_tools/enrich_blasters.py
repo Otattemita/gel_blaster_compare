@@ -119,8 +119,10 @@ for blaster in blasters:
     # We always enhance the gearbox details
     blaster['gearbox'] = cross_data['gearbox']
     
-    # Append the complex spec data
-    blaster['cross_referenced_specs'] = cross_data
+    # Append the complex spec data without overwriting existing fields
+    if 'cross_referenced_specs' not in blaster:
+        blaster['cross_referenced_specs'] = {}
+    blaster['cross_referenced_specs'].update(cross_data)
 
 with open(filepath, 'w', encoding='utf-8') as f:
     json.dump(blasters, f, indent=2)

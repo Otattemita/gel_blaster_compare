@@ -18,6 +18,8 @@
     "rps_7v": 15,
     "rps_11v": 23,
     "cross_referenced_specs": {
+      "fps_cheap": "220 FPS",
+      "fps_ultra": "265 FPS",
       "fps": "250 - 270 FPS",
       "gearbox": "JingJi V2/Split Metal Gearbox",
       "material": "High-Density Nylon or Metal Alloy",
@@ -46,6 +48,8 @@
     "rps_7v": 12,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "233 FPS",
+      "fps_ultra": "280 FPS",
       "fps": "240 - 260 FPS",
       "gearbox": "CYMA V2/V3 Nylon Gearbox with Metal Gears",
       "material": "Nylon Polymer Receiver",
@@ -73,6 +77,8 @@
     "rps_7v": 12,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "233 FPS",
+      "fps_ultra": "280 FPS",
       "fps": "240 - 260 FPS",
       "gearbox": "CYMA V2/V3 Nylon Gearbox with Metal Gears",
       "material": "Nylon Polymer Receiver",
@@ -100,6 +106,8 @@
     "rps_7v": 10,
     "rps_11v": 16,
     "cross_referenced_specs": {
+      "fps_cheap": "290 FPS",
+      "fps_ultra": "349 FPS",
       "fps": "300 - 340 FPS",
       "gearbox": "LDX-style Metal Gearbox / Negative Gearbox",
       "material": "Full Metal Receiver and Handguard",
@@ -128,6 +136,8 @@
     "rps_7v": 10,
     "rps_11v": 15,
     "cross_referenced_specs": {
+      "fps_cheap": "264 FPS",
+      "fps_ultra": "318 FPS",
       "fps": "280 - 300 FPS",
       "gearbox": "Alpha King V3 Aluminum Gearbox",
       "material": "Stamped Steel & Polymer",
@@ -155,6 +165,8 @@
     "rps_7v": 11,
     "rps_11v": 15,
     "cross_referenced_specs": {
+      "fps_cheap": "259 FPS",
+      "fps_ultra": "312 FPS",
       "fps": "280 - 300 FPS",
       "gearbox": "Alpha King V3 Aluminum Gearbox",
       "material": "Stamped Steel & Polymer",
@@ -182,6 +194,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -209,6 +223,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "237 FPS",
+      "fps_ultra": "286 FPS",
       "fps": "240 - 260 FPS",
       "gearbox": "CYMA V2/V3 Nylon Gearbox with Metal Gears",
       "material": "Nylon Polymer Receiver",
@@ -236,6 +252,8 @@
     "rps_7v": 16,
     "rps_11v": 25,
     "cross_referenced_specs": {
+      "fps_cheap": "246 FPS",
+      "fps_ultra": "296 FPS",
       "fps": "260 - 280 FPS",
       "gearbox": "XYL V2 Gearbox with Mosfet",
       "material": "Nylon Body / CNC Handguard",
@@ -263,6 +281,8 @@
     "rps_7v": 16,
     "rps_11v": 25,
     "cross_referenced_specs": {
+      "fps_cheap": "246 FPS",
+      "fps_ultra": "296 FPS",
       "fps": "260 - 280 FPS",
       "gearbox": "XYL V2 Gearbox with Mosfet",
       "material": "Nylon Body / CNC Handguard",
@@ -290,6 +310,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -317,6 +339,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -344,6 +368,8 @@
     "rps_7v": 10,
     "rps_11v": 16,
     "cross_referenced_specs": {
+      "fps_cheap": "290 FPS",
+      "fps_ultra": "349 FPS",
       "fps": "300 - 340 FPS",
       "gearbox": "LDX-style Metal Gearbox / Negative Gearbox",
       "material": "Full Metal Receiver and Handguard",
@@ -372,6 +398,8 @@
     "rps_7v": 12,
     "rps_11v": 16,
     "cross_referenced_specs": {
+      "fps_cheap": "215 FPS",
+      "fps_ultra": "259 FPS",
       "fps": "240 - 260 FPS",
       "gearbox": "DK Metal Gearbox",
       "material": "Nylon Polymer",
@@ -400,6 +428,8 @@
     "rps_7v": 13,
     "rps_11v": 19,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240 - 260 FPS",
       "gearbox": "CYMA V2/V3 Nylon Gearbox with Metal Gears",
       "material": "Nylon Polymer Receiver",
@@ -427,6 +457,8 @@
     "rps_7v": 12,
     "rps_11v": 17,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240 - 260 FPS",
       "gearbox": "CYMA V2/V3 Nylon Gearbox with Metal Gears",
       "material": "Nylon Polymer Receiver",
@@ -454,6 +486,8 @@
     "rps_7v": 14,
     "rps_11v": 20,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "250 - 270 FPS",
       "gearbox": "JingJi V2/Split Metal Gearbox",
       "material": "High-Density Nylon or Metal Alloy",
@@ -482,6 +516,8 @@
     "rps_7v": 14,
     "rps_11v": 19,
     "cross_referenced_specs": {
+      "fps_cheap": "224 FPS",
+      "fps_ultra": "270 FPS",
       "fps": "230 - 250 FPS",
       "gearbox": "SJ Nylon V2 Gearbox with Metal Gears",
       "material": "Nylon Polymer",
@@ -509,6 +545,8 @@
     "rps_7v": 10,
     "rps_11v": 16,
     "cross_referenced_specs": {
+      "fps_cheap": "290 FPS",
+      "fps_ultra": "349 FPS",
       "fps": "300 - 340 FPS",
       "gearbox": "LDX-style Metal Gearbox / Negative Gearbox",
       "material": "Full Metal Receiver and Handguard",
@@ -537,6 +575,8 @@
     "rps_7v": 10,
     "rps_11v": 16,
     "cross_referenced_specs": {
+      "fps_cheap": "290 FPS",
+      "fps_ultra": "349 FPS",
       "fps": "300 - 340 FPS",
       "gearbox": "LDX-style Metal Gearbox / Negative Gearbox",
       "material": "Full Metal Receiver and Handguard",
@@ -565,6 +605,8 @@
     "rps_7v": 10,
     "rps_11v": 16,
     "cross_referenced_specs": {
+      "fps_cheap": "290 FPS",
+      "fps_ultra": "349 FPS",
       "fps": "300 - 340 FPS",
       "gearbox": "LDX-style Metal Gearbox / Negative Gearbox",
       "material": "Full Metal Receiver and Handguard",
@@ -593,6 +635,8 @@
     "rps_7v": 10,
     "rps_11v": 16,
     "cross_referenced_specs": {
+      "fps_cheap": "290 FPS",
+      "fps_ultra": "349 FPS",
       "fps": "300 - 340 FPS",
       "gearbox": "LDX-style Metal Gearbox / Negative Gearbox",
       "material": "Full Metal Receiver and Handguard",
@@ -621,6 +665,8 @@
     "rps_7v": 10,
     "rps_11v": 16,
     "cross_referenced_specs": {
+      "fps_cheap": "290 FPS",
+      "fps_ultra": "349 FPS",
       "fps": "300 - 340 FPS",
       "gearbox": "LDX-style Metal Gearbox / Negative Gearbox",
       "material": "Full Metal Receiver and Handguard",
@@ -649,6 +695,8 @@
     "rps_7v": 10,
     "rps_11v": 16,
     "cross_referenced_specs": {
+      "fps_cheap": "290 FPS",
+      "fps_ultra": "349 FPS",
       "fps": "300 - 340 FPS",
       "gearbox": "LDX-style Metal Gearbox / Negative Gearbox",
       "material": "Full Metal Receiver and Handguard",
@@ -677,6 +725,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -704,6 +754,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "237 FPS",
+      "fps_ultra": "286 FPS",
       "fps": "240 - 260 FPS",
       "gearbox": "CYMA V2/V3 Nylon Gearbox with Metal Gears",
       "material": "Nylon Polymer Receiver",
@@ -731,6 +783,8 @@
     "rps_7v": 12,
     "rps_11v": 12,
     "cross_referenced_specs": {
+      "fps_cheap": "184 FPS",
+      "fps_ultra": "222 FPS",
       "fps": "200 - 220 FPS",
       "gearbox": "Proprietary",
       "material": "ABS Plastic",
@@ -758,6 +812,8 @@
     "rps_7v": 10,
     "rps_11v": 16,
     "cross_referenced_specs": {
+      "fps_cheap": "286 FPS",
+      "fps_ultra": "344 FPS",
       "fps": "300 - 340 FPS",
       "gearbox": "LDX-style Metal Gearbox / Negative Gearbox",
       "material": "Full Metal Receiver and Handguard",
@@ -786,6 +842,8 @@
     "rps_7v": 10,
     "rps_11v": 16,
     "cross_referenced_specs": {
+      "fps_cheap": "290 FPS",
+      "fps_ultra": "349 FPS",
       "fps": "300 - 340 FPS",
       "gearbox": "LDX-style Metal Gearbox / Negative Gearbox",
       "material": "Full Metal Receiver and Handguard",
@@ -814,6 +872,8 @@
     "rps_7v": 10,
     "rps_11v": 16,
     "cross_referenced_specs": {
+      "fps_cheap": "290 FPS",
+      "fps_ultra": "349 FPS",
       "fps": "300 - 340 FPS",
       "gearbox": "LDX-style Metal Gearbox / Negative Gearbox",
       "material": "Full Metal Receiver and Handguard",
@@ -842,6 +902,8 @@
     "rps_7v": 10,
     "rps_11v": 16,
     "cross_referenced_specs": {
+      "fps_cheap": "290 FPS",
+      "fps_ultra": "349 FPS",
       "fps": "300 - 340 FPS",
       "gearbox": "LDX-style Metal Gearbox / Negative Gearbox",
       "material": "Full Metal Receiver and Handguard",
@@ -870,6 +932,8 @@
     "rps_7v": 14,
     "rps_11v": 20,
     "cross_referenced_specs": {
+      "fps_cheap": "233 FPS",
+      "fps_ultra": "280 FPS",
       "fps": "250 - 270 FPS",
       "gearbox": "JingJi V2/Split Metal Gearbox",
       "material": "High-Density Nylon or Metal Alloy",
@@ -898,6 +962,8 @@
     "rps_7v": 14,
     "rps_11v": 19,
     "cross_referenced_specs": {
+      "fps_cheap": "224 FPS",
+      "fps_ultra": "270 FPS",
       "fps": "250 - 270 FPS",
       "gearbox": "JingJi V2/Split Metal Gearbox",
       "material": "High-Density Nylon or Metal Alloy",
@@ -926,6 +992,8 @@
     "rps_7v": 14,
     "rps_11v": 20,
     "cross_referenced_specs": {
+      "fps_cheap": "233 FPS",
+      "fps_ultra": "280 FPS",
       "fps": "250 - 270 FPS",
       "gearbox": "JingJi V2/Split Metal Gearbox",
       "material": "High-Density Nylon or Metal Alloy",
@@ -954,6 +1022,8 @@
     "rps_7v": 14,
     "rps_11v": 20,
     "cross_referenced_specs": {
+      "fps_cheap": "233 FPS",
+      "fps_ultra": "280 FPS",
       "fps": "250 - 270 FPS",
       "gearbox": "JingJi V2/Split Metal Gearbox",
       "material": "High-Density Nylon or Metal Alloy",
@@ -982,6 +1052,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -1009,6 +1081,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -1036,6 +1110,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -1063,6 +1139,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -1090,6 +1168,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -1117,6 +1197,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -1144,6 +1226,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -1171,6 +1255,8 @@
     "rps_7v": 9,
     "rps_11v": 14,
     "cross_referenced_specs": {
+      "fps_cheap": "264 FPS",
+      "fps_ultra": "318 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -1198,6 +1284,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -1225,6 +1313,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -1252,6 +1342,8 @@
     "rps_7v": 12,
     "rps_11v": 17,
     "cross_referenced_specs": {
+      "fps_cheap": "233 FPS",
+      "fps_ultra": "280 FPS",
       "fps": "240 - 260 FPS",
       "gearbox": "CYMA V2/V3 Nylon Gearbox with Metal Gears",
       "material": "Nylon Polymer Receiver",
@@ -1279,6 +1371,8 @@
     "rps_7v": 14,
     "rps_11v": 20,
     "cross_referenced_specs": {
+      "fps_cheap": "242 FPS",
+      "fps_ultra": "291 FPS",
       "fps": "250 - 270 FPS",
       "gearbox": "JingJi V2/Split Metal Gearbox",
       "material": "High-Density Nylon or Metal Alloy",
@@ -1307,6 +1401,8 @@
     "rps_7v": 11,
     "rps_11v": 16,
     "cross_referenced_specs": {
+      "fps_cheap": "281 FPS",
+      "fps_ultra": "339 FPS",
       "fps": "300 - 320 FPS",
       "gearbox": "DS Full Metal V3 Gearbox",
       "material": "Steel, Wood & Metal Alloy",
@@ -1334,6 +1430,8 @@
     "rps_7v": 12,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240 - 260 FPS",
       "gearbox": "CYMA V2/V3 Nylon Gearbox with Metal Gears",
       "material": "Nylon Polymer Receiver",
@@ -1361,6 +1459,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "230 - 250 FPS",
       "gearbox": "SJ Nylon V2 Gearbox with Metal Gears",
       "material": "Nylon Polymer",
@@ -1388,6 +1488,8 @@
     "rps_7v": 14,
     "rps_11v": 19,
     "cross_referenced_specs": {
+      "fps_cheap": "224 FPS",
+      "fps_ultra": "270 FPS",
       "fps": "250 - 270 FPS",
       "gearbox": "JingJi V2/Split Metal Gearbox",
       "material": "High-Density Nylon or Metal Alloy",
@@ -1416,6 +1518,8 @@
     "rps_7v": 12,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240 - 260 FPS",
       "gearbox": "CYMA V2/V3 Nylon Gearbox with Metal Gears",
       "material": "Nylon Polymer Receiver",
@@ -1443,6 +1547,8 @@
     "rps_7v": 12,
     "rps_11v": 16,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240 - 260 FPS",
       "gearbox": "Lehui Custom V2 / Nylon",
       "material": "High Quality Nylon",
@@ -1470,6 +1576,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -1497,6 +1605,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -1524,6 +1634,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -1551,6 +1663,8 @@
     "rps_7v": 13,
     "rps_11v": 19,
     "cross_referenced_specs": {
+      "fps_cheap": "220 FPS",
+      "fps_ultra": "265 FPS",
       "fps": "240 - 260 FPS",
       "gearbox": "CYMA V2/V3 Nylon Gearbox with Metal Gears",
       "material": "Nylon Polymer Receiver",
@@ -1578,6 +1692,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -1605,6 +1721,8 @@
     "rps_7v": 11,
     "rps_11v": 16,
     "cross_referenced_specs": {
+      "fps_cheap": "281 FPS",
+      "fps_ultra": "339 FPS",
       "fps": "300 - 320 FPS",
       "gearbox": "DS Full Metal V3 Gearbox",
       "material": "Steel, Wood & Metal Alloy",
@@ -1632,6 +1750,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "230 - 250 FPS",
       "gearbox": "SJ Nylon V2 Gearbox with Metal Gears",
       "material": "Nylon Polymer",
@@ -1659,6 +1779,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "230 - 250 FPS",
       "gearbox": "SJ Nylon V2 Gearbox with Metal Gears",
       "material": "Nylon Polymer",
@@ -1686,6 +1808,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -1713,6 +1837,8 @@
     "rps_7v": 12,
     "rps_11v": 17,
     "cross_referenced_specs": {
+      "fps_cheap": "215 FPS",
+      "fps_ultra": "259 FPS",
       "fps": "240 - 260 FPS",
       "gearbox": "Lehui Custom V2 / Nylon",
       "material": "High Quality Nylon",
@@ -1740,6 +1866,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -1768,6 +1896,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240 - 260 FPS",
       "gearbox": "Lehui Custom V2 / Nylon",
       "material": "High Quality Nylon",
@@ -1795,6 +1925,8 @@
     "rps_7v": 15,
     "rps_11v": 24,
     "cross_referenced_specs": {
+      "fps_cheap": "215 FPS",
+      "fps_ultra": "259 FPS",
       "fps": "250 - 270 FPS",
       "gearbox": "JingJi V2/Split Metal Gearbox",
       "material": "High-Density Nylon or Metal Alloy",
@@ -1823,6 +1955,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240 - 260 FPS",
       "gearbox": "Lehui Custom V2 / Nylon",
       "material": "High Quality Nylon",
@@ -1850,6 +1984,8 @@
     "rps_7v": 15,
     "rps_11v": 24,
     "cross_referenced_specs": {
+      "fps_cheap": "215 FPS",
+      "fps_ultra": "259 FPS",
       "fps": "250 - 270 FPS",
       "gearbox": "JingJi V2/Split Metal Gearbox",
       "material": "High-Density Nylon or Metal Alloy",
@@ -1878,6 +2014,8 @@
     "rps_7v": 12,
     "rps_11v": 17,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240 - 260 FPS",
       "gearbox": "CYMA V2/V3 Nylon Gearbox with Metal Gears",
       "material": "Nylon Polymer Receiver",
@@ -1905,6 +2043,8 @@
     "rps_7v": 14,
     "rps_11v": 20,
     "cross_referenced_specs": {
+      "fps_cheap": "242 FPS",
+      "fps_ultra": "291 FPS",
       "fps": "250 - 270 FPS",
       "gearbox": "JingJi V2/Split Metal Gearbox",
       "material": "High-Density Nylon or Metal Alloy",
@@ -1933,6 +2073,8 @@
     "rps_7v": 12,
     "rps_11v": 17,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240 - 260 FPS",
       "gearbox": "CYMA V2/V3 Nylon Gearbox with Metal Gears",
       "material": "Nylon Polymer Receiver",
@@ -1960,6 +2102,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -1988,6 +2132,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -2015,6 +2161,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -2042,6 +2190,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -2069,6 +2219,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -2096,6 +2248,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2123,6 +2277,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Metal Slide / Polymer Frame",
@@ -2150,6 +2306,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Metal Slide / Polymer Frame",
@@ -2177,6 +2335,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Metal Slide / Polymer Frame",
@@ -2204,6 +2364,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Metal Slide / Polymer Frame",
@@ -2231,6 +2393,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2258,6 +2422,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2285,6 +2451,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "300 - 320 FPS",
       "gearbox": "DS Full Metal V3 Gearbox",
       "material": "Metal Slide / Polymer Frame",
@@ -2312,6 +2480,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Metal Slide / Polymer Frame",
@@ -2339,6 +2509,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Metal Slide / Polymer Frame",
@@ -2366,6 +2538,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2393,6 +2567,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2420,6 +2596,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2447,6 +2625,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "300 - 320 FPS",
       "gearbox": "DS Full Metal V3 Gearbox",
       "material": "Polymer",
@@ -2474,6 +2654,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2501,6 +2683,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2528,6 +2712,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2555,6 +2741,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2582,6 +2770,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2609,6 +2799,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2636,6 +2828,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Metal Slide / Polymer Frame",
@@ -2663,6 +2857,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2690,6 +2886,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2717,6 +2915,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Metal Slide / Polymer Frame",
@@ -2744,6 +2944,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2771,6 +2973,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2798,6 +3002,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2825,6 +3031,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2852,6 +3060,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2879,6 +3089,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2906,6 +3118,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -2933,6 +3147,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Metal Slide / Polymer Frame",
@@ -2960,6 +3176,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Metal Slide / Polymer Frame",
@@ -2987,6 +3205,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -3014,6 +3234,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -3041,6 +3263,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3068,6 +3292,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "260 - 280 FPS",
       "gearbox": "XYL V2 Gearbox with Mosfet",
       "material": "Nylon Body / CNC Handguard",
@@ -3095,6 +3321,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3123,6 +3351,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3150,6 +3380,8 @@
     "rps_7v": 12,
     "rps_11v": 16,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3177,6 +3409,8 @@
     "rps_7v": 12,
     "rps_11v": 16,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3204,6 +3438,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3232,6 +3468,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3259,6 +3497,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3286,6 +3526,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3313,6 +3555,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3340,6 +3584,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "260 - 280 FPS",
       "gearbox": "XYL V2 Gearbox with Mosfet",
       "material": "Nylon Body / CNC Handguard",
@@ -3367,6 +3613,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "260 - 280 FPS",
       "gearbox": "XYL V2 Gearbox with Mosfet",
       "material": "Nylon Body / CNC Handguard",
@@ -3394,6 +3642,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3421,6 +3671,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3448,6 +3700,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3475,6 +3729,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "260 - 280 FPS",
       "gearbox": "XYL V2 Gearbox with Mosfet",
       "material": "Nylon Body / CNC Handguard",
@@ -3502,6 +3758,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "260 - 280 FPS",
       "gearbox": "XYL V2 Gearbox with Mosfet",
       "material": "Nylon Body / CNC Handguard",
@@ -3529,6 +3787,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3556,6 +3816,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3583,6 +3845,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3610,6 +3874,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3637,6 +3903,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3664,6 +3932,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "300 - 320 FPS",
       "gearbox": "DS Full Metal V3 Gearbox",
       "material": "Steel, Wood & Metal Alloy",
@@ -3691,6 +3961,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3718,6 +3990,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3745,6 +4019,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Metal Slide / Polymer Frame",
@@ -3772,6 +4048,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3799,6 +4077,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "300 - 320 FPS",
       "gearbox": "DS Full Metal V3 Gearbox",
       "material": "Steel, Wood & Metal Alloy",
@@ -3826,6 +4106,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "300 - 320 FPS",
       "gearbox": "DS Full Metal V3 Gearbox",
       "material": "Steel, Wood & Metal Alloy",
@@ -3853,6 +4135,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3880,6 +4164,8 @@
     "rps_7v": 12,
     "rps_11v": 17,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240 - 260 FPS",
       "gearbox": "CYMA V2/V3 Nylon Gearbox with Metal Gears",
       "material": "Nylon Polymer Receiver",
@@ -3907,6 +4193,8 @@
     "rps_7v": 10,
     "rps_11v": 16,
     "cross_referenced_specs": {
+      "fps_cheap": "290 FPS",
+      "fps_ultra": "349 FPS",
       "fps": "300 - 340 FPS",
       "gearbox": "LDX-style Metal Gearbox / Negative Gearbox",
       "material": "Full Metal Receiver and Handguard",
@@ -3935,6 +4223,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -3962,6 +4252,8 @@
     "rps_7v": 12,
     "rps_11v": 17,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240 - 260 FPS",
       "gearbox": "CYMA V2/V3 Nylon Gearbox with Metal Gears",
       "material": "Nylon Polymer Receiver",
@@ -3989,6 +4281,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -4016,6 +4310,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -4043,6 +4339,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "260 - 280 FPS",
       "gearbox": "XYL V2 Gearbox with Mosfet",
       "material": "Nylon Body / CNC Handguard",
@@ -4070,6 +4368,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -4097,6 +4397,8 @@
     "rps_7v": 14,
     "rps_11v": 19,
     "cross_referenced_specs": {
+      "fps_cheap": "224 FPS",
+      "fps_ultra": "270 FPS",
       "fps": "250 - 270 FPS",
       "gearbox": "JingJi V2/Split Metal Gearbox",
       "material": "High-Density Nylon or Metal Alloy",
@@ -4125,6 +4427,8 @@
     "rps_7v": 4,
     "rps_11v": 4,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Polymer",
@@ -4152,6 +4456,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -4179,6 +4485,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "260 - 280 FPS",
       "gearbox": "XYL V2 Gearbox with Mosfet",
       "material": "Nylon Body / CNC Handguard",
@@ -4206,6 +4514,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "260 - 280 FPS",
       "gearbox": "XYL V2 Gearbox with Mosfet",
       "material": "Nylon Body / CNC Handguard",
@@ -4233,6 +4543,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "240-260 FPS",
       "gearbox": "Standard Nylon V2",
       "material": "Nylon",
@@ -4260,6 +4572,8 @@
     "rps_7v": 14,
     "rps_11v": 19,
     "cross_referenced_specs": {
+      "fps_cheap": "224 FPS",
+      "fps_ultra": "270 FPS",
       "fps": "250 - 270 FPS",
       "gearbox": "JingJi V2/Split Metal Gearbox",
       "material": "High-Density Nylon or Metal Alloy",
@@ -4288,6 +4602,8 @@
     "rps_7v": 13,
     "rps_11v": 18,
     "cross_referenced_specs": {
+      "fps_cheap": "228 FPS",
+      "fps_ultra": "275 FPS",
       "fps": "260 - 280 FPS",
       "gearbox": "XYL V2 Gearbox with Mosfet",
       "material": "Nylon Body / CNC Handguard",
